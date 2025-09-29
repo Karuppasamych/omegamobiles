@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faIndianRupeeSign, faRupeeSign } from '@fortawesome/free-solid-svg-icons'
 import samsung from '../assets/images/samsungGs25.jpg';
 import oppo from '../assets/images/omegaoppo.png';
-import nothing from '../assets/images/Omeganothing.png';
+import nothing from '../assets/images/Omeganothing.jpg';
 import vivo from '../assets/images/OmegaVivo.jpg';
 
 interface Product {
@@ -45,7 +45,7 @@ const Products = () => {
     },
     {
       id: 4,
-      name: 'Nothing Phone ( 2a )',
+      name: 'Nothing Phone ( 3a )',
       price: '23,999',
       originalPrice: '25,999',
       discount: '17% OFF',
